@@ -45,9 +45,6 @@ From this dataset, we analyzed:
 
 ---
 
-## 📂 Files
-
-
 ## pip install -r requirements.txt
 ## jupyter notebook AI Financial & Market Data Analysis.ipynb
 
